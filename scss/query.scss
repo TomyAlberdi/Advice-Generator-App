@@ -1,0 +1,24 @@
+@media screen and (min-width: 1440px) {
+
+    body {
+        .quote {
+            width: 32vw;
+            padding: 2% 4% 6%;
+            img.mobile {
+                display: none;
+            }
+            img.desktop {
+                display: block;
+            }
+            h2 {
+                font-size: 1.4rem;
+                margin-bottom: 2vh;
+            }
+            .dice {
+                bottom: 35.5%;
+                left: 47.8%;
+            }
+        }
+    }
+
+}

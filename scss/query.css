@@ -1,0 +1,20 @@
+@media screen and (min-width: 1440px) {
+  body .quote {
+    width: 32vw;
+    padding: 2% 4% 6%;
+  }
+  body .quote img.mobile {
+    display: none;
+  }
+  body .quote img.desktop {
+    display: block;
+  }
+  body .quote h2 {
+    font-size: 1.4rem;
+    margin-bottom: 2vh;
+  }
+  body .quote .dice {
+    bottom: 35.5%;
+    left: 47.8%;
+  }
+}/*# sourceMappingURL=query.css.map */
